@@ -1,0 +1,16 @@
+WINDOW OBJECT AND DOCUMENT OBJECT
+
+WINDOW OBJECT:
+// the window object represent an open window in a broser.
+// if a document contain frames(<iframe>tag),the browser creates one window object for the HTML document,
+ and one additional window object for each frame.
+// Global variabled are properties of window object.
+//  Global functions are methods of window object.
+// the console object is aproperty of the window object.
+
+
+DOCUMENT OBJECT:
+//a programming interface for web document.
+//it represent the page so that programs can change the document stucture, style, and content.
+//Loaded insde the window object.
+// 'document' keyword is required to access their properties.
